@@ -1,0 +1,11 @@
+html {
+  background: #20222b;
+}
+body {
+  width: 100svw;
+  height: 100svh;
+}
+canvas {
+  width: 100%;
+  height: 100%;
+}
